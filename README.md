@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Annie 🌻
+### Hi there 👋, I'm Annie
 
 - :woman_student: PhD student in Applied Science
 - :seedling: AI techniques in forecasting of Global Horizontal Irradiance (GHI)
