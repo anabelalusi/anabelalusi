@@ -1,13 +1,12 @@
 ### Hi there 👋, I'm Annie 🌻
 
-- :woman_student: PhD student 
-- :seedling: Solar energy research's
+- :woman_student: PhD student in Applied Science
+- :seedling: AI techniques in forecasting of Global Horizontal Irradiance (GHI)
 - :woman_technologist: Data science 
 - :sunrise_over_mountains: Travel lover
 
 📫 How to reach me: anabelalusi@gmail.com
 
-I try to improve myself day by day, enjoying learning and always being open to new challenges.
 
 <!--
 **anabelalusi/anabelalusi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
