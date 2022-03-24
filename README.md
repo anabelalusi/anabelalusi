@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋, I'm Annie 🌻
+
+- :woman_student: PhD student 
+- :seedling: Solar energy research's
+- :woman_technologist: Data science 
+- :sunrise_over_mountains: Travel lover
+
+📫 How to reach me: anabelalusi@gmail.com
+
 
 <!--
 **anabelalusi/anabelalusi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
