@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Annie
 
 - :woman_student: PhD student in Applied Science
-- :seedling: ML techniques of Global Horizontal Irradiance (GHI)
+- :seedling: ML techniques on Global Horizontal Irradiance (GHI)
 - :sunrise_over_mountains: Travel lover
 
 📫 How to reach me: anabelalusi@gmail.com
